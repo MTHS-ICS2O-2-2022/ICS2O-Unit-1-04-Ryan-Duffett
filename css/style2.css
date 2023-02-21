@@ -1,42 +1,42 @@
 body {
-  background-color: rgb(180, 225, 150);
+  background-color: rgb(180 225 150);
 }
 
 h1 {
-  background-color: rgb(106, 148, 93);
+  background-color: rgb(106 148 93);
   color: hsl(78, 100%, 51%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: rgb(111, 170, 106);
+  background-color: rgb(111 170 106);
   text-align: center;
 }
 
 ul {
   color: rgb(255, 255, 255);
-  background-color: rgb(111, 170, 106);
+  background-color: rgb(111 170 106);
 }
 
 table {
   border: solid thin;
-  border-color: rgb(255, 255, 255);
+  border-color: rgb(255 255 255);
   margin-left: 810px;
   margin-right: 700px;
 }
 
 th {
   height: 2rem;
-  background: rgb(11, 170, 106);
+  background: rgb(11 170 106);
   border: 1px solid white;
   text-align: center;
 }
 
 td {
   height: 2rem;
-  background: rgb(182, 230, 173);
-  border: 1px solid rgb(255, 255, 255);
+  background: rgb(182 230 173);
+  border: 1px solid rgb(255 255 255);
   text-align: center;
 }
 
